@@ -1,11 +1,12 @@
 {
   "name": "orak-util-es",
-  "version": "0.0.5",
-  "description": "Orak software Utility library Based On Es Module",
+  "version": "0.0.2",
+  "description": "Orak software utility library based on ESM",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scpublish": "npm publish"
+    "pub": "npm publish"
   },
   "repository": {
     "type": "git",
