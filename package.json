@@ -1,0 +1,24 @@
+{
+  "name": "orak-util-es",
+  "version": "0.0.5",
+  "description": "Orak software Utility library Based On Es Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scpublish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/engtuncay/orak-util-es.git"
+  },
+  "keywords": [
+    "utility",
+    "javascript"
+  ],
+  "author": "Tuncay Orak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engtuncay/orak-util-es/issues"
+  },
+  "homepage": "https://github.com/engtuncay/orak-util-es#readme"
+}
